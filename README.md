@@ -7,6 +7,7 @@ Ejercicio inividual o en parejas.
 
 ### Part I
 
+https://code-with-me.jetbrains.com/SIs7C-z4CNM3y_Lu5M_6GA#p=IC&fp=D00DD904445F44BB4DFA504710A6846F697BD04F6562F512F11785F55198FA2E
 
 Parte I – Antes de terminar la clase.
 
